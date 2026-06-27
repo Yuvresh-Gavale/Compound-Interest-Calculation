@@ -1,6 +1,6 @@
 # Compound-Interest-Calculation
 html file: https://github.com/Yuvresh-Gavale/Compound-Interest-Calculation/blob/main/index.html
-css file: 
+js file: https://github.com/Yuvresh-Gavale/Compound-Interest-Calculation/blob/main/script.js
 
 Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/Compound-Interest-Calculation/edit/main/README.md
